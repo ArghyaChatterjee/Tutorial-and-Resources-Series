@@ -8,9 +8,9 @@ This repository is all about listing all the tutorials that I have created.
 - [IPE Diagram Drawing Tutorial](https://github.com/ArghyaChatterjee/IPE-Diagram-Drawing-Tutorial)
 - [Latex Tutorial](https://github.com/ArghyaChatterjee/Latex-and-Overleaf-Tutorial)
   - [Latex and Overleaf Resources](https://github.com/ArghyaChatterjee/Latex-and-Overleaf-Resources) 
-- [IntelliJ]()
+- [IntelliJ Tutorial]()
   - [IntelliJ Resources]()
-- [VsCode]()
+- [VsCode Tutorial]()
   - [VsCode Resources]()  
 
 ## Topic Tutorial
