@@ -30,3 +30,7 @@ This repository is all about listing all the tutorials that I have created durin
 - [IHMC Nadia Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Tutorial)
 - [Opti-Track & Vicon Motion capture Tutorial](https://github.com/ArghyaChatterjee/Optitrack-and-Vicon-Mocap-Tutorial)
 - [Crealty Raptor 3D Scanner Tutorial](https://github.com/ArghyaChatterjee/All-About-Creality-Raptor-Scanner)
+
+## Methods Tutorial
+- [Ground Truth Pose Estimation]()
+- [Synthetic Data Generation]()
