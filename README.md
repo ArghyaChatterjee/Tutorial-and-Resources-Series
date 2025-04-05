@@ -23,6 +23,8 @@ This repository is all about listing all the tutorials that I have created.
   - [URDF Resources](https://github.com/ArghyaChatterjee/All-About-Robot-URDFs) 
 - [Rviz Inspector](https://github.com/ArghyaChatterjee/Rviz-Inspector)
   - [Rviz Resources](https://github.com/ArghyaChatterjee/All-About-Rviz-Resources) 
+- RQT Inspector](https://github.com/ArghyaChatterjee/RQT-Tutorial)
+  - [RQT Resources](https://github.com/ArghyaChatterjee/RQT-Resources) 
 
 ## Hardware Tutorial
 - [IHMC Nadia Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Tutorial)
