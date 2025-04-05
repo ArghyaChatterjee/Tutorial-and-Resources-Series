@@ -5,7 +5,7 @@ This repository is all about listing all the tutorials that I have created.
 - [Kdenlive Tutorial](https://github.com/ArghyaChatterjee/Kdenlive-Tutorial)
 - [Blender Tutorial](https://github.com/ArghyaChatterjee/Blender-Tutorial)
   - [Blender Resources](https://github.com/ArghyaChatterjee/All-About-Blender-Resources)  
-- [IPE Diagram Drawing Tutorial](https://github.com/ArghyaChatterjee/IPE-Diagram-Drawing-Tutorial)
+- [IPE Latex Drawing Tutorial](https://github.com/ArghyaChatterjee/IPE-Latex-Drawing-Tutorial)
 - [Latex Tutorial](https://github.com/ArghyaChatterjee/Latex-and-Overleaf-Tutorial)
   - [Latex and Overleaf Resources](https://github.com/ArghyaChatterjee/Latex-and-Overleaf-Resources) 
 - [IntelliJ Tutorial]()
