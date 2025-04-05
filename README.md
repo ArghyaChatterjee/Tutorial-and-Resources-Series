@@ -28,5 +28,5 @@ This repository is all about listing all the tutorials that I have created.
 
 ## Hardware Tutorial
 - [IHMC Nadia Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Tutorial)
-- [Opti-Track & Vicon Mocap](https://github.com/ArghyaChatterjee/Optitrack-and-Vicon-Mocap-Tutorial)
-- [Crealty Raptor](https://github.com/ArghyaChatterjee/All-About-Creality-Raptor-Scanner)
+- [Opti-Track & Vicon Mocap Tutorial](https://github.com/ArghyaChatterjee/Optitrack-and-Vicon-Mocap-Tutorial)
+- [Crealty Raptor Tutorial](https://github.com/ArghyaChatterjee/All-About-Creality-Raptor-Scanner)
