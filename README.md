@@ -6,7 +6,7 @@ This repository is all about listing all the tutorials that I have created durin
 - [Blender Tutorial](https://github.com/ArghyaChatterjee/Blender-Tutorial)
   - [Blender Resources](https://github.com/ArghyaChatterjee/Blender-Resources)  
 - [IPE Latex Drawing Tutorial](https://github.com/ArghyaChatterjee/IPE-Latex-Drawing-Tutorial)
-- [Inkscape Latex Drawing Tutorial]()
+- [Inkscape Latex Drawing Tutorial](https://github.com/ArghyaChatterjee/Inkscape-Latex-Drawing-Tutorial)
 - [Latex Tutorial](https://github.com/ArghyaChatterjee/Latex-and-Overleaf-Tutorial)
   - [Latex and Overleaf Resources](https://github.com/ArghyaChatterjee/Latex-and-Overleaf-Resources) 
 - [IntelliJ Tutorial]()
@@ -34,5 +34,5 @@ This repository is all about listing all the tutorials that I have created durin
 - [Crealty Raptor 3D Scanner Tutorial](https://github.com/ArghyaChatterjee/All-About-Creality-Raptor-Scanner)
 
 ## Methods Tutorial
-- [Ground Truth Pose Estimation]()
-- [Synthetic Data Generation]()
+- [Ground Truth Pose Estimation](https://github.com/ArghyaChatterjee/Ground-Truth-Pose-Estimation)
+- [Synthetic Data Generation](https://github.com/ArghyaChatterjee/Synthetic-Data-Generation)
