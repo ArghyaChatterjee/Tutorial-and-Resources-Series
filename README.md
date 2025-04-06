@@ -27,7 +27,7 @@ This repository is all about listing all the tutorials during my PhD.
   - [Rviz Resources](https://github.com/ArghyaChatterjee/Rviz-Resources) 
 - [RQT Inspector](https://github.com/ArghyaChatterjee/RQT-Tutorial)
   - [RQT Resources](https://github.com/ArghyaChatterjee/RQT-Resources) 
-- [IK Inspector]()
+- [IK Inspector](https://github.com/ArghyaChatterjee/IK-Inspector)
 
 ## Hardware Tutorial
 - [IHMC Nadia Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Tutorial)
