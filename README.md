@@ -1,5 +1,5 @@
 # Tutorial-Series
-This repository is all about listing all the tutorials that I have created during my PhD.
+This repository is all about listing all the tutorials during my PhD.
 
 ## Software Tutorial
 - [Kdenlive Tutorial](https://github.com/ArghyaChatterjee/Kdenlive-Tutorial)
