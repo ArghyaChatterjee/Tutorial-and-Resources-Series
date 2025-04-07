@@ -16,6 +16,7 @@ This repository is all about listing all the tutorials during my PhD.
   - [VsCode Resources]()
 - [Docker Tutorial](https://github.com/ArghyaChatterjee/Docker-Tutorial)
 - [Github Readme Tutorial](https://github.com/ArghyaChatterjee/Github-Readme-Tutorial)
+- [MoveIt Tutorial]()
 - [Isaac Sim Tutorial](https://github.com/ArghyaChatterjee/Isaac-Sim-Tutorial)
 - [Isaac Lab Tutorial](https://github.com/ArghyaChatterjee/Isaac-Lab-Tutorial)
 - [Isaac Sim Replicator Tutorial]()
@@ -37,7 +38,7 @@ This repository is all about listing all the tutorials during my PhD.
 - [IHMC Nadia Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Tutorial)
 - [IHMC Nadia IK Tutorial]()
 - [Opti-Track & Vicon Motion capture Tutorial](https://github.com/ArghyaChatterjee/Optitrack-and-Vicon-Mocap-Tutorial)
-- [Crealty Raptor 3D Scanner Tutorial](https://github.com/ArghyaChatterjee/All-About-Creality-Raptor-Scanner)
+- [Crealty Raptor 3D Object Scanner Tutorial](https://github.com/ArghyaChatterjee/All-About-Creality-Raptor-Scanner)
 - [Camera Calibration Tutorial](https://github.com/ArghyaChatterjee/Camera-Calibration-Tutorial)
 
 ## Methods Tutorial
