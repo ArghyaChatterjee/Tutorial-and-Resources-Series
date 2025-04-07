@@ -17,6 +17,7 @@ This repository is all about listing all the tutorials during my PhD.
 - [Docker Tutorial](https://github.com/ArghyaChatterjee/Docker-Tutorial)
 - [Github Readme Tutorial](https://github.com/ArghyaChatterjee/Github-Readme-Tutorial)
 - [MoveIt Tutorial](https://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/setup_assistant/setup_assistant_tutorial.html)
+- [Nvidia Groot Tutorial]() 
 - [Isaac Sim Tutorial](https://github.com/ArghyaChatterjee/Isaac-Sim-Tutorial)
 - [Isaac Lab Tutorial](https://github.com/ArghyaChatterjee/Isaac-Lab-Tutorial)
 - [Isaac Sim Replicator Tutorial]()
@@ -34,7 +35,7 @@ This repository is all about listing all the tutorials during my PhD.
   - [RQT Resources](https://github.com/ArghyaChatterjee/RQT-Resources) 
 - [IK Inspector](https://github.com/ArghyaChatterjee/IK-Inspector)
 - [ROS Tutorials](https://github.com/robosavvy/ROS_Tutorials)
-- [3D Computer Vision Tutorial]() 
+- [3D Computer Vision Tutorial](https://github.com/mint-lab/3dv_tutorial) 
 
 ## Hardware Tutorial
 - [IHMC Nadia Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Tutorial)
