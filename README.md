@@ -18,7 +18,7 @@ This repository is all about listing all the tutorials during my PhD.
 - [ROS Tutorials](https://github.com/robosavvy/ROS_Tutorials)
 - [Github Readme Tutorial](https://github.com/ArghyaChatterjee/Github-Readme-Tutorial)
 - [MoveIt Tutorial](https://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/setup_assistant/setup_assistant_tutorial.html)
-- [Nvidia Groot Tutorial]() 
+- [Isaac Groot Tutorial](https://github.com/ArghyaChatterjee/Isaac-Groot-Tutorial) 
 - [Isaac Sim Tutorial](https://github.com/ArghyaChatterjee/Isaac-Sim-Tutorial)
 - [Isaac Lab Tutorial](https://github.com/ArghyaChatterjee/Isaac-Lab-Tutorial)
 - [Isaac Sim Replicator Tutorial]()
