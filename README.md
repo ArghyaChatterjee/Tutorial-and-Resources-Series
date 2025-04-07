@@ -38,6 +38,7 @@ This repository is all about listing all the tutorials during my PhD.
 - [IHMC Nadia IK Tutorial]()
 - [Opti-Track & Vicon Motion capture Tutorial](https://github.com/ArghyaChatterjee/Optitrack-and-Vicon-Mocap-Tutorial)
 - [Crealty Raptor 3D Scanner Tutorial](https://github.com/ArghyaChatterjee/All-About-Creality-Raptor-Scanner)
+- [Camera Calibration Tutorial](https://github.com/ArghyaChatterjee/Camera-Calibration-Tutorial)
 
 ## Methods Tutorial
 - [Ground Truth Pose Estimation](https://github.com/ArghyaChatterjee/Ground-Truth-Pose-Estimation)
