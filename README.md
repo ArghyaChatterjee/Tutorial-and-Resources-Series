@@ -34,12 +34,12 @@ This repository is all about listing all the tutorials during my PhD.
   - [Rviz Resources](https://github.com/ArghyaChatterjee/Rviz-Resources) 
 - [RQT Inspector](https://github.com/ArghyaChatterjee/RQT-Tutorial)
   - [RQT Resources](https://github.com/ArghyaChatterjee/RQT-Resources) 
-- [IK Inspector](https://github.com/ArghyaChatterjee/IK-Inspector)
+- [FK-IK Inspector](https://github.com/ArghyaChatterjee/IK-Inspector)
 - [3D Computer Vision Tutorial](https://github.com/mint-lab/3dv_tutorial) 
 
 ## Hardware Tutorial
 - [IHMC Nadia Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Tutorial)
-- [IHMC Nadia IK Tutorial]()
+- [IHMC Nadia FK-IK Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-FK-IK-Tutorial)
 - [Opti-Track & Vicon Motion capture Tutorial](https://github.com/ArghyaChatterjee/Optitrack-and-Vicon-Mocap-Tutorial)
 - [Crealty Raptor 3D Object Scanner Tutorial](https://github.com/ArghyaChatterjee/All-About-Creality-Raptor-Scanner)
 - [Camera Calibration Tutorial](https://github.com/ArghyaChatterjee/Camera-Calibration-Tutorial)
