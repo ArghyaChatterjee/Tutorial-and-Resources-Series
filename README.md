@@ -41,4 +41,5 @@ This repository is all about listing all the tutorials during my PhD.
 
 ## Methods Tutorial
 - [Ground Truth Pose Estimation](https://github.com/ArghyaChatterjee/Ground-Truth-Pose-Estimation)
+- [Ground Truth Map Generation](https://github.com/ArghyaChatterjee/Ground-Truth-Map-Generation)
 - [Synthetic Data Generation](https://github.com/ArghyaChatterjee/Synthetic-Data-Generation)
