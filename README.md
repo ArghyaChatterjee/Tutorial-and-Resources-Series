@@ -17,6 +17,8 @@ This repository is all about listing all the tutorials during my PhD.
 - [Github Readme Tutorial](https://github.com/ArghyaChatterjee/Github-Readme-Tutorial)
 - [Isaac Sim Tutorial](https://github.com/ArghyaChatterjee/Isaac-Sim-Tutorial)
 - [Isaac Lab Tutorial](https://github.com/ArghyaChatterjee/Isaac-Lab-Tutorial)
+- [Isaac Sim Replicator Tutorial]()
+- [Isaac Lab Mimic Tutorial]()
 
 ## Topic Tutorial
 - [Image Inspector](https://github.com/ArghyaChatterjee/image-inspector)
