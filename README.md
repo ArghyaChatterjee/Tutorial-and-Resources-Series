@@ -38,6 +38,7 @@ This repository is all about listing all the tutorials during my PhD.
 - [3D Computer Vision Tutorial](https://github.com/mint-lab/3dv_tutorial) 
 
 ## Hardware Tutorial
+- [IHMC PC and GPU Cluster Access Tutorial](https://github.com/ArghyaChatterjee/IHMC-PC-and-GPU-Cluster-Access-Tutorial)
 - [IHMC Nadia Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Tutorial)
 - [IHMC Nadia FK-IK Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-FK-IK-Tutorial)
 - [Opti-Track & Vicon Motion capture Tutorial](https://github.com/ArghyaChatterjee/Optitrack-and-Vicon-Mocap-Tutorial)
