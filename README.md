@@ -15,6 +15,9 @@ This repository is all about listing all the tutorials during my PhD.
 - [VsCode Tutorial]()
   - [VsCode Resources]()
 - [Docker Tutorial](https://github.com/ArghyaChatterjee/Docker-Tutorial)
+- [PIP Tutorial](https://github.com/ArghyaChatterjee/PIP-Tutorial)
+- [Conda Tutorial](https://github.com/ArghyaChatterjee/Conda-Tutorial)
+- [Cuda Tutorial]()
 - [ROS Tutorials](https://github.com/robosavvy/ROS_Tutorials)
 - [Github Readme Tutorial](https://github.com/ArghyaChatterjee/Github-Readme-Tutorial)
 - [MoveIt Tutorial](https://github.com/ArghyaChatterjee/MoveIt-Tutorial)
@@ -45,6 +48,8 @@ This repository is all about listing all the tutorials during my PhD.
 - [Opti-Track & Vicon Motion capture Tutorial](https://github.com/ArghyaChatterjee/Optitrack-and-Vicon-Mocap-Tutorial)
 - [Crealty Raptor 3D Object Scanner Tutorial](https://github.com/ArghyaChatterjee/All-About-Creality-Raptor-Scanner)
 - [Camera Calibration Tutorial](https://github.com/ArghyaChatterjee/Camera-Calibration-Tutorial)
+- [ZED Tutorial](https://github.com/ArghyaChatterjee/ZED-Tutorial)
+- [Realsense Tutorial](https://github.com/ArghyaChatterjee/Realsense-Tutorial)
 
 ## Methods Tutorial
 - [Ground Truth Pose Estimation](https://github.com/ArghyaChatterjee/Ground-Truth-Pose-Estimation)
