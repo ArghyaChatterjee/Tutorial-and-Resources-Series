@@ -1,4 +1,4 @@
-# Tutorial Series
+# Tutorial & Resources Series
 This repository is all about listing all the tutorials during my PhD.
 
 ## Software Tutorial
