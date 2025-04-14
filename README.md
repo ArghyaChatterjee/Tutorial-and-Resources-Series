@@ -29,7 +29,7 @@ This repository is all about listing all the tutorials during my PhD.
   - [Conda Tutorial](https://github.com/ArghyaChatterjee/Conda-Tutorial)
   - [Cuda Tutorial](https://github.com/ArghyaChatterjee/Cuda-Tutorial)
   - [ROS Tutorials](https://github.com/robosavvy/ROS_Tutorials)
-    - [Rviz Tutorial](https://github.com/ArghyaChatterjee/Rviz-Inspector)
+    - [Rviz Tutorial](https://github.com/ArghyaChatterjee/Rviz-Tutorial)
     - [RQT Tutorial](https://github.com/ArghyaChatterjee/RQT-Tutorial)
   - [ImGUI Tutorial](https://github.com/ArghyaChatterjee/ImGUI-Tutorial)
   - [Github Readme Tutorial](https://github.com/ArghyaChatterjee/Github-Readme-Tutorial)
