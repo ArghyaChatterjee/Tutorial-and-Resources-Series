@@ -2,6 +2,7 @@
 This repository is all about listing all the tutorials during my PhD.
 
 ## Software Tutorial
+- *Public*
 - [Kdenlive Tutorial](https://github.com/ArghyaChatterjee/Kdenlive-Tutorial)
 - [Blender Tutorial](https://github.com/ArghyaChatterjee/Blender-Tutorial)
   - [Blender Resources](https://github.com/ArghyaChatterjee/Blender-Resources)
@@ -10,7 +11,16 @@ This repository is all about listing all the tutorials during my PhD.
 - [Inkscape Latex Drawing Tutorial](https://github.com/ArghyaChatterjee/Inkscape-Latex-Drawing-Tutorial)
 - [Latex Tutorial](https://github.com/ArghyaChatterjee/Latex-and-Overleaf-Tutorial)
   - [Latex and Overleaf Resources](https://github.com/ArghyaChatterjee/Latex-and-Overleaf-Resources) 
-- [IntelliJ Tutorial]()
+- [MoveIt Tutorial](https://github.com/ArghyaChatterjee/MoveIt-Tutorial)
+  - [MoveIt Resources](https://github.com/ArghyaChatterjee/MoveIt-Resources) 
+- [Isaac Groot Tutorial](https://github.com/ArghyaChatterjee/Isaac-Groot-Tutorial) 
+- [Isaac Sim Tutorial](https://github.com/ArghyaChatterjee/Isaac-Sim-Tutorial)
+- [Isaac Lab Tutorial](https://github.com/ArghyaChatterjee/Isaac-Lab-Tutorial)
+- [Isaac Sim Replicator Tutorial]()
+- [Isaac Lab Mimic Tutorial]()
+
+- *Private*
+- - [IntelliJ Tutorial]()
   - [IntelliJ Resources]()
 - [VsCode Tutorial]()
   - [VsCode Resources]()
@@ -19,22 +29,13 @@ This repository is all about listing all the tutorials during my PhD.
 - [Conda Tutorial](https://github.com/ArghyaChatterjee/Conda-Tutorial)
 - [Cuda Tutorial](https://github.com/ArghyaChatterjee/Cuda-Tutorial)
 - [ROS Tutorials](https://github.com/robosavvy/ROS_Tutorials)
-  - [Rviz Inspector](https://github.com/ArghyaChatterjee/Rviz-Inspector)
-  - [Rviz Resources](https://github.com/ArghyaChatterjee/Rviz-Resources) 
-  - [RQT Inspector](https://github.com/ArghyaChatterjee/RQT-Tutorial)
-  - [RQT Resources](https://github.com/ArghyaChatterjee/RQT-Resources)
+  - [Rviz Tutorial](https://github.com/ArghyaChatterjee/Rviz-Inspector)
+  - [RQT Tutorial](https://github.com/ArghyaChatterjee/RQT-Tutorial)
 - [ImGUI Tutorial](https://github.com/ArghyaChatterjee/ImGUI-Tutorial)
 - [Github Readme Tutorial](https://github.com/ArghyaChatterjee/Github-Readme-Tutorial)
 - [Data Plotting & Visualization Tutorial](https://github.com/ArghyaChatterjee/Data-Plotting-Visualization-Tutorial)
   - [Data-NN-Plot-and-Graph-Visualization-Resources](https://github.com/ArghyaChatterjee/Data-NN-Plot-and-Graph-Visualization-Resources)
   - [Camera-and-Lidar-Visualization-Resources](https://github.com/ArghyaChatterjee/Camera-and-Lidar-Visualization-Resources)
-- [MoveIt Tutorial](https://github.com/ArghyaChatterjee/MoveIt-Tutorial)
-  - [MoveIt Resources](https://github.com/ArghyaChatterjee/MoveIt-Resources) 
-- [Isaac Groot Tutorial](https://github.com/ArghyaChatterjee/Isaac-Groot-Tutorial) 
-- [Isaac Sim Tutorial](https://github.com/ArghyaChatterjee/Isaac-Sim-Tutorial)
-- [Isaac Lab Tutorial](https://github.com/ArghyaChatterjee/Isaac-Lab-Tutorial)
-- [Isaac Sim Replicator Tutorial]()
-- [Isaac Lab Mimic Tutorial]()
 
 ## Topic Tutorial
 - [Image Inspector](https://github.com/ArghyaChatterjee/image-inspector)
@@ -46,14 +47,17 @@ This repository is all about listing all the tutorials during my PhD.
 - [3D Computer Vision Tutorial](https://github.com/mint-lab/3dv_tutorial) 
 
 ## Hardware Tutorial
-- [IHMC PC and GPU Cluster Access Tutorial](https://github.com/ArghyaChatterjee/IHMC-PC-and-GPU-Cluster-Access-Tutorial)
-- [IHMC Nadia Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Tutorial)
-- [IHMC Nadia FK-IK Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-FK-IK-Tutorial)
-- [Opti-Track & Vicon Motion capture Tutorial](https://github.com/ArghyaChatterjee/Optitrack-and-Vicon-Mocap-Tutorial)
-- [Crealty Raptor 3D Object Scanner Tutorial](https://github.com/ArghyaChatterjee/All-About-Creality-Raptor-Scanner)
-- [Camera Calibration Tutorial](https://github.com/ArghyaChatterjee/Camera-Calibration-Tutorial)
-- [ZED Tutorial](https://github.com/ArghyaChatterjee/ZED-Tutorial)
-- [Realsense Tutorial](https://github.com/ArghyaChatterjee/Realsense-Tutorial)
+- *Private*
+  - [IHMC PC and GPU Cluster Access Tutorial](https://github.com/ArghyaChatterjee/IHMC-PC-and-GPU-Cluster-Access-Tutorial)
+  - [IHMC Nadia Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Tutorial)
+  - [IHMC Nadia FK-IK Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-FK-IK-Tutorial)
+
+- *Public*
+  - [Opti-Track & Vicon Motion capture Tutorial](https://github.com/ArghyaChatterjee/Optitrack-and-Vicon-Mocap-Tutorial)
+  - [Crealty Raptor 3D Object Scanner Tutorial](https://github.com/ArghyaChatterjee/All-About-Creality-Raptor-Scanner)
+  - [Camera Calibration Tutorial](https://github.com/ArghyaChatterjee/Camera-Calibration-Tutorial)
+  - [ZED Tutorial](https://github.com/ArghyaChatterjee/ZED-Tutorial)
+  - [Realsense Tutorial](https://github.com/ArghyaChatterjee/Realsense-Tutorial)
 
 ## Methods Tutorial
 - [Ground Truth Pose Estimation](https://github.com/ArghyaChatterjee/Ground-Truth-Pose-Estimation)
