@@ -1,5 +1,5 @@
 # Tutorial & Resources Series
-This repository is all about listing all the tutorials during my PhD.
+This repository lists all the tutorials that I created during my PhD.
 
 ## Software Tutorial
 - *Public*
