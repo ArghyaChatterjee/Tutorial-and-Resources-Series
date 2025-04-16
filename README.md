@@ -28,6 +28,7 @@ This repository lists all the tutorials that I created during my PhD.
   - [PIP Tutorial](https://github.com/ArghyaChatterjee/PIP-Tutorial)
   - [Conda Tutorial](https://github.com/ArghyaChatterjee/Conda-Tutorial)
   - [Cuda Tutorial](https://github.com/ArghyaChatterjee/Cuda-Tutorial)
+  - [TensorRT Tutorial](https://github.com/ArghyaChatterjee/TensorRT-Tutorial)
   - [ROS Tutorials](https://github.com/robosavvy/ROS_Tutorials)
     - [Rviz Tutorial](https://github.com/ArghyaChatterjee/Rviz-Tutorial)
     - [RQT Tutorial](https://github.com/ArghyaChatterjee/RQT-Tutorial)
