@@ -38,9 +38,9 @@ This repository lists all the tutorials that I created during my PhD.
   - [Data Plotting & Visualization Tutorial](https://github.com/ArghyaChatterjee/Data-Plotting-Visualization-Tutorial)
     - [Data-NN-Plot-and-Graph-Visualization-Resources](https://github.com/ArghyaChatterjee/Data-NN-Plot-and-Graph-Visualization-Resources)
     - [Camera-and-Lidar-Visualization-Resources](https://github.com/ArghyaChatterjee/Camera-and-Lidar-Visualization-Resources)
-  - [IHMC Nadia Isaac Groot Tutorial](https://github.com/ArghyaChatterjee/Isaac-Groot-Tutorial) 
-  - [IHMC Nadia Isaac Sim Tutorial](https://github.com/ArghyaChatterjee/Isaac-Sim-Tutorial)
-  - [IHMC Nadia Isaac Lab Tutorial](https://github.com/ArghyaChatterjee/Isaac-Lab-Tutorial)
+  - [IHMC Nadia Isaac Groot Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Isaac-Groot-Tutorial) 
+  - [IHMC Nadia Isaac Sim Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Isaac-Sim-Tutorial)
+  - [IHMC Nadia Isaac Lab Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Isaac-Lab-Tutorial)
 ## Topic Tutorial
 - *Public*
   - [Image Inspector](https://github.com/ArghyaChatterjee/image-inspector)
