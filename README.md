@@ -17,7 +17,7 @@ This repository lists all the tutorials that I created during my PhD.
   - [Isaac Sim Tutorial](https://github.com/ArghyaChatterjee/Isaac-Sim-Tutorial)
   - [Isaac Lab Tutorial](https://github.com/ArghyaChatterjee/Isaac-Lab-Tutorial)
   - [Isaac Sim Replicator Tutorial](https://github.com/ArghyaChatterjee/Isaac-Sim-Replicator-Tutorial)
-  - [Isaac Lab Mimic Tutorial]()
+  - [Isaac Lab Mimic Tutorial](https://github.com/ArghyaChatterjee/Isaac-Lab-Mimic-Tutorial)
 
 - *Private*
   - [IntelliJ Tutorial]()
