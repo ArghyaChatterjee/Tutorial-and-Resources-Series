@@ -25,7 +25,7 @@ This repository lists all the tutorials that I created during my PhD.
   - [VsCode Tutorial]()
     - [VsCode Resources]()
   - [Docker Tutorial](https://github.com/ArghyaChatterjee/Docker-Tutorial)
-  - [PIP Tutorial](https://github.com/ArghyaChatterjee/PIP-Tutorial)
+  - [Python Virtual Environment Tutorial](https://github.com/ArghyaChatterjee/Python-Virtual-Environment-Tutorial)
   - [Conda Tutorial](https://github.com/ArghyaChatterjee/Conda-Tutorial)
   - [Cuda Tutorial](https://github.com/ArghyaChatterjee/Cuda-Tutorial)
   - [TensorRT Tutorial](https://github.com/ArghyaChatterjee/TensorRT-Tutorial)
