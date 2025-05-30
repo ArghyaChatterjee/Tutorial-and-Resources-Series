@@ -42,6 +42,7 @@ This repository lists all the tutorials that I created during my PhD.
   - [IHMC Nadia Isaac Groot Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Isaac-Groot-Tutorial) 
   - [IHMC Nadia Isaac Sim Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Isaac-Sim-Tutorial)
   - [IHMC Nadia Isaac Lab Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Isaac-Lab-Tutorial)
+
 ## Topic Tutorial
 - *Public*
   - [Image Inspector](https://github.com/ArghyaChatterjee/image-inspector)
@@ -61,7 +62,7 @@ This repository lists all the tutorials that I created during my PhD.
 
 - *Public*
   - [Opti-Track & Vicon Motion capture Tutorial](https://github.com/ArghyaChatterjee/Optitrack-and-Vicon-Mocap-Tutorial)
-  - [Crealty Raptor 3D Object Scanner Tutorial](https://github.com/ArghyaChatterjee/All-About-Creality-Raptor-Scanner)
+  - [Crealty Raptor 3D Object Scanner Tutorial](https://github.com/ArghyaChatterjee/Creality-Raptor-Scanner-Tutorial)
   - [Camera Calibration Tutorial](https://github.com/ArghyaChatterjee/Camera-Calibration-Tutorial)
   - [ZED Tutorial](https://github.com/ArghyaChatterjee/ZED-Tutorial)
   - [Realsense Tutorial](https://github.com/ArghyaChatterjee/Realsense-Tutorial)
