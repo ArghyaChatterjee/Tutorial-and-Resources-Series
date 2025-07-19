@@ -14,10 +14,10 @@ This repository lists all the tutorials that I created during my PhD.
   - [MoveIt Tutorial](https://github.com/ArghyaChatterjee/MoveIt-Tutorial)
     - [MoveIt Resources](https://github.com/ArghyaChatterjee/MoveIt-Resources) 
   - [Isaac Groot Tutorial](https://github.com/ArghyaChatterjee/Isaac-Groot-Tutorial) 
-  - [Isaac Sim Tutorial](https://github.com/ArghyaChatterjee/Isaac-Sim-Tutorial)
+  - [Isaac Sim Tutorial](https://github.com/ShalikAI/Isaac-Sim-Tutorial)
   - [Isaac Lab Tutorial](https://github.com/ArghyaChatterjee/Isaac-Lab-Tutorial)
-  - [Isaac Sim Replicator Tutorial](https://github.com/ArghyaChatterjee/Isaac-Sim-Replicator-Tutorial)
-  - [Isaac Sim Mobility Gen Tutorial](https://github.com/ArghyaChatterjee/Isaac-Sim-Mobility-Gen-Tutorial)
+  - [Isaac Sim Replicator Tutorial](https://github.com/ShalikAI/Isaac-Sim-Replicator-Tutorial)
+  - [Isaac Sim Mobility Gen Tutorial](https://github.com/ShalikAI/Isaac-Sim-Mobility-Gen-Tutorial)
   - [Isaac Lab Mimic Tutorial](https://github.com/ArghyaChatterjee/Isaac-Lab-Mimic-Tutorial)
 
 - *Private*
