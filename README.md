@@ -48,6 +48,7 @@ This repository lists all the tutorials that I created during my PhD.
 - *Public*
   - [Image Inspector](https://github.com/ArghyaChatterjee/image-inspector)
   - [Point Inspector](https://github.com/ArghyaChatterjee/point-inspector)
+  - [Rotation Inspector](https://github.com/ArghyaChatterjee/Rotation-Inspector)
   - [TF Inspector](https://github.com/ArghyaChatterjee/TF-Inspector)
   - [URDF Inspector](https://github.com/ArghyaChatterjee/URDF-Inspector)
     - [URDF Resources](https://github.com/ArghyaChatterjee/URDF-Resources) 
