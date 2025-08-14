@@ -22,7 +22,7 @@ This repository lists all the tutorials that I created during my PhD.
   - [Isaac Lab Mimic Tutorial](https://github.com/ArghyaChatterjee/Isaac-Lab-Mimic-Tutorial)
 
 - *Private*
-  - [IntelliJ Tutorial]()
+  - [IntelliJ Tutorial](https://github.com/ArghyaChatterjee/IntelliJ-Tutorial)
     - [IntelliJ Resources]()
   - [VsCode Tutorial]()
     - [VsCode Resources]()
