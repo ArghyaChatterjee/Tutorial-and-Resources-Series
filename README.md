@@ -12,6 +12,7 @@ This repository lists all the tutorials that I created during my PhD.
   - [Inkscape Latex Drawing Tutorial](https://github.com/ArghyaChatterjee/Inkscape-Latex-Drawing-Tutorial)
   - [Latex Tutorial](https://github.com/ArghyaChatterjee/Latex-and-Overleaf-Tutorial)
     - [Latex and Overleaf Resources](https://github.com/ArghyaChatterjee/Latex-and-Overleaf-Resources) 
+  - [Diagram & Flowchart Drawing Tutorial](https://github.com/ArghyaChatterjee/Diagram-and-Flowchart-Drawing-Tutorial) 
   - [MoveIt Tutorial](https://github.com/ArghyaChatterjee/MoveIt-Tutorial)
     - [MoveIt Resources](https://github.com/ArghyaChatterjee/MoveIt-Resources) 
   - [Isaac Groot Tutorial](https://github.com/ArghyaChatterjee/Isaac-Groot-Tutorial) 
