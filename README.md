@@ -65,7 +65,8 @@ This repository lists all the tutorials that I created during my PhD.
 - *Private*
   - [IHMC PC and GPU Cluster Access Tutorial](https://github.com/ArghyaChatterjee/IHMC-PC-and-GPU-Cluster-Access-Tutorial)
   - [IHMC GPU Training Tutorial](https://github.com/ArghyaChatterjee/IHMC-GPU-Training-Tutorial)
-  - [IHMC Nadia Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Tutorial)
+  - [IHMC Nadia/H1/Alexander Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Tutorial)
+  - [IHMC Nadia/H1/Alexander Control Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-H1-Alexander-Control-Tutorial)
   - [IHMC Nadia FK-IK Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-FK-IK-Tutorial)
 
 - *Public*
