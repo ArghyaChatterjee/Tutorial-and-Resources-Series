@@ -46,9 +46,9 @@ This repository lists all the tutorials that I created during my PhD.
     - [Camera-and-Lidar-Visualization-Resources](https://github.com/ArghyaChatterjee/Camera-and-Lidar-Visualization-Resources)
   - [Diagram & Flowchart Drawing Tutorial](https://github.com/ArghyaChatterjee/Diagram-and-Flowchart-Drawing-Tutorial)
   - [Background Removal Tutorial](https://github.com/ArghyaChatterjee/Background-Removal-Tutorial)
-  - [IHMC Nadia Isaac Groot Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Isaac-Groot-Tutorial) 
-  - [IHMC Nadia Isaac Sim Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Isaac-Sim-Tutorial)
-  - [IHMC Nadia Isaac Lab Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Isaac-Lab-Tutorial)
+  - [IHMC Nadia H1 Alexander Isaac Groot Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-H1-Alexander-Isaac-Groot-Tutorial) 
+  - [IHMC Nadia H1 Alexander Isaac Sim Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-H1-Alexander-Isaac-Sim-Tutorial)
+  - [IHMC Nadia H1 Alexander Isaac Lab Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-H1-Alexander-Isaac-Lab-Tutorial)
 
 ## Topic Tutorial
 - *Public*
@@ -65,9 +65,9 @@ This repository lists all the tutorials that I created during my PhD.
 - *Private*
   - [IHMC PC and GPU Cluster Access Tutorial](https://github.com/ArghyaChatterjee/IHMC-PC-and-GPU-Cluster-Access-Tutorial)
   - [IHMC GPU Training Tutorial](https://github.com/ArghyaChatterjee/IHMC-GPU-Training-Tutorial)
-  - [IHMC Nadia/H1/Alexander Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-Tutorial)
+  - [IHMC Nadia/H1/Alexander Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-H1-Alexander-Tutorial)
   - [IHMC Nadia/H1/Alexander Control Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-H1-Alexander-Control-Tutorial)
-  - [IHMC Nadia FK-IK Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-FK-IK-Tutorial)
+  - [IHMC Nadia/H1/Alexander FK-IK Tutorial](https://github.com/ArghyaChatterjee/IHMC-Nadia-H1-Alexander-FK-IK-Tutorial)
 
 - *Public*
   - [Opti-Track & Vicon Motion capture Tutorial](https://github.com/ArghyaChatterjee/Optitrack-and-Vicon-Mocap-Tutorial)
